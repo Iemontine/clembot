@@ -1,3 +1,5 @@
+This project is currently in closed-source development. The below README is from an old version before I restarted a "lookback" redesign of clembot in March 2025.
+
 # clembot
 
 A Discord bot featuring AI chat, natural langauge AI image analysis and editing, a YouTube & Spotify-scraping music player, numerous fun/useful social tools, a reminder system, automatic birthday wishing, and more.
